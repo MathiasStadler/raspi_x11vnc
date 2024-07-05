@@ -3,9 +3,7 @@
 
 ```bash
 touch second.txt
-git add --all
-git commit --all --message="refresh"
-git push
+
 
 ```
 
