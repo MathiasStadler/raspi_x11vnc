@@ -1,5 +1,5 @@
 #!/bin/bash
-function run_vnc_server() {
+function run_vnc_server {
     export DISPLAY=:1
     local passwordArgument='-nopw'
 
